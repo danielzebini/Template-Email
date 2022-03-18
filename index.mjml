@@ -1,0 +1,101 @@
+<mjml>
+    <mj-head>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" />
+        <mj-attributes>
+          <!-- <mj-text padding="0" />
+          <mj-class name="blue" color="blue" />
+          <mj-class name="big" font-size="20px" /> -->
+          <mj-all font-family="Roboto, sans-serif" />
+          <mj-text font-weight="400" font-size="18px" color="#000000" line-height="30px" />
+        </mj-attributes>
+      </mj-head>
+    <mj-body background-color="#ffffff">
+        <mj-section full-width="full-width" background-color="#FE6236" padding="0">
+            <mj-column width="100%" padding="30px 0">
+                <mj-image src="./img/logo-cartorio-blasco.jpg" href="https://cartorioblasco.com.br/" target="_blank" width="285px" align="center" padding="0" alt="Cartório Blasco">
+                </mj-image>
+            </mj-column>
+            <mj-column width="100%" background-color="#ffffff" padding="60px 60px 0">
+                <mj-text padding="0">
+                        Olá, 
+                        <span style="color: #FE6236; font-weight: 700">
+                            XXXX
+                        </span>
+                        !
+                </mj-text>
+                <mj-text padding="40px 0 0">
+                    Recebemos o seu pedido com sucesso.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section full-width="full-width" background-color="#ffffff" padding="0">
+            <mj-column width="100%" background-color="#ffffff" padding="40px 60px 0">
+                <mj-text padding="0">
+                    Em breve você receberá, via e-mail, os próximos passos para a realização do ato solicitado.
+                </mj-text>
+            </mj-column>
+            <mj-column width="100%" background-color="#ffffff" padding="40px 60px 0">
+                <mj-image src="./img/processo.jpg" width="445px" align="center" padding="0" alt="Processo">
+                </mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section full-width="full-width" background-color="#ffffff" padding="40px 60px">
+            <mj-column width="100%" background-color="#FFD8CD" padding="40px 0">
+                <mj-text padding="0" font-weight="700" color="#FE6236" align="center">
+                    Acompanhe o seu pedido em tempo real.
+                </mj-text>
+                <mj-button background-color="#FE6236" align="center" color="#ffffff" font-size="14px" font-weight="700" padding="20px 0 0 0" border-radius="25px" width="200px" height="46px" href="#link" target="_blank">
+                    ACOMPANHAR PEDIDO
+                  </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section full-width="full-width" background-color="#ffffff" padding="0">
+            <mj-column width="100%" background-color="#ffffff" padding="0 60px">
+                <mj-text padding="0">
+                    Consulte-nos sempre, a qualquer dúvida que surgir. 
+                </mj-text>
+                <mj-text padding="40px 0 0">
+                    Atenciosamente.
+                </mj-text>
+                <mj-text padding="0">
+                    Equipe Blasco. 
+                </mj-text>
+            </mj-column>
+            <mj-column width="100%" background-color="#ffffff" padding="20px 60px 0">
+                <mj-image src="./img/linha.jpg" width="480px" align="left" padding="0" alt="Processo">
+                </mj-image>
+            </mj-column>
+            <mj-column width="100%" background-color="#ffffff" padding="0 60px">
+                <mj-text padding="20px 0 0" text-decoration="underline" font-weight="700" align="center">
+                    CONTATO
+                </mj-text>
+                <mj-text padding="20px 0 0" align="center">
+                    11 3881 5050 <br />
+                    11 9 7430 4687 <br />
+                    atendimento@cartorioblasco.com.br <br />
+                    <a href="https://cartorioblasco.com.br/" target="_blank" style="text-decoration: none; color: #333;">
+                        www.cartorioblasco.com.br
+                    </a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section full-width="full-width" background-color="#983B20" padding="0">
+            <mj-column width="100%" background-color="#ffffff" padding="40px 60px">
+                <mj-text padding="0" text-decoration="underline" font-weight="700" align="center">
+                    ENDEREÇO
+                </mj-text>
+                <mj-text padding="20px 0 0" align="center">
+                    Avenida Brigadeiro Faria Lima, 2859 <br />
+                    Itaim Bibi, São Paulo/SP 
+                </mj-text>
+            </mj-column>
+            <mj-column width="100%" padding="20px 0">
+                <mj-social icon-size="24px" mode="horizontal" padding="0" align="center">
+                    <mj-social-element title="Facebook" src="./img/facebook.jpg" href="https://www.facebook.com/cartorioblasco/" padding="0 10px"></mj-social-element>
+                    <mj-social-element title="Instagram" src="./img/instagram.jpg" href="https://www.instagram.com/cartorioblasco/" padding="0 10px"></mj-social-element>
+                    <mj-social-element title="teste" src="./img/linkedin.jpg" href="https://www.linkedin.com/company/cartorioblasco/mycompany/" padding="0 10px"></mj-social-element>
+                  </mj-social>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
