@@ -15,7 +15,7 @@
                 <mj-image src="./img/logo-cartorio-blasco.jpg" href="https://cartorioblasco.com.br/" target="_blank" width="285px" align="center" padding="0" alt="Cartório Blasco">
                 </mj-image>
             </mj-column>
-            <mj-column width="100%" background-color="#ffffff" padding="60px 60px 0">
+            <mj-column width="100%" background-color="#ffffff" padding="10% 10% 0">
                 <mj-text padding="0">
                         Olá, 
                         <span style="color: #FE6236; font-weight: 700">
@@ -29,18 +29,18 @@
             </mj-column>
         </mj-section>
         <mj-section full-width="full-width" background-color="#ffffff" padding="0">
-            <mj-column width="100%" background-color="#ffffff" padding="40px 60px 0">
+            <mj-column width="100%" background-color="#ffffff" padding="40px 10% 0">
                 <mj-text padding="0">
                     Em breve você receberá, via e-mail, os próximos passos para a realização do ato solicitado.
                 </mj-text>
             </mj-column>
-            <mj-column width="100%" background-color="#ffffff" padding="40px 60px 0">
-                <mj-image src="./img/processo.jpg" width="445px" align="center" padding="0" alt="Processo">
+            <mj-column width="100%" background-color="#ffffff" padding="40px 10% 0">
+                <mj-image src="./img/processo.jpg" width="445px" align="center" padding="0" alt="Pedido confirmado">
                 </mj-image>
             </mj-column>
         </mj-section>
-        <mj-section full-width="full-width" background-color="#ffffff" padding="40px 60px">
-            <mj-column width="100%" background-color="#FFD8CD" padding="40px 0">
+        <mj-section full-width="full-width" background-color="#ffffff" padding="40px 10%">
+            <mj-column width="100%" background-color="#FFD8CD" padding="40px 20px">
                 <mj-text padding="0" font-weight="700" color="#FE6236" align="center">
                     Acompanhe o seu pedido em tempo real.
                 </mj-text>
@@ -50,7 +50,7 @@
             </mj-column>
         </mj-section>
         <mj-section full-width="full-width" background-color="#ffffff" padding="0">
-            <mj-column width="100%" background-color="#ffffff" padding="0 60px">
+            <mj-column width="100%" background-color="#ffffff" padding="0 10%">
                 <mj-text padding="0">
                     Consulte-nos sempre, a qualquer dúvida que surgir. 
                 </mj-text>
@@ -61,11 +61,11 @@
                     Equipe Blasco. 
                 </mj-text>
             </mj-column>
-            <mj-column width="100%" background-color="#ffffff" padding="20px 60px 0">
-                <mj-image src="./img/linha.jpg" width="480px" align="left" padding="0" alt="Processo">
+            <mj-column width="100%" background-color="#ffffff" padding="20px 10% 0">
+                <mj-image src="./img/linha.jpg" width="480px" align="left" padding="0" alt="">
                 </mj-image>
             </mj-column>
-            <mj-column width="100%" background-color="#ffffff" padding="0 60px">
+            <mj-column width="100%" background-color="#ffffff" padding="0 10%">
                 <mj-text padding="20px 0 0" text-decoration="underline" font-weight="700" align="center">
                     CONTATO
                 </mj-text>
@@ -80,7 +80,7 @@
             </mj-column>
         </mj-section>
         <mj-section full-width="full-width" background-color="#983B20" padding="0">
-            <mj-column width="100%" background-color="#ffffff" padding="40px 60px">
+            <mj-column width="100%" background-color="#ffffff" padding="40px 10%">
                 <mj-text padding="0" text-decoration="underline" font-weight="700" align="center">
                     ENDEREÇO
                 </mj-text>
